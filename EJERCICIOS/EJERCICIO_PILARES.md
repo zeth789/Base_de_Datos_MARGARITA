@@ -34,4 +34,5 @@ https://www.db-fiddle.com/f/pviyVMJYFxGaiW1aerM8bk/0
 
 EJERCICIO BASE DE DATOS TALLERISTAS
 https://www.db-fiddle.com/f/swbehm8vaedC52K8XQTJuL/0
+https://www.db-fiddle.com/f/swbehm8vaedC52K8XQTJuL/2
 
