@@ -63,3 +63,4 @@ Base de datos para MySQL
 
 
 https://www.db-fiddle.com/f/gPSEW9XKCbsXPnKeF9X6Sc/0
+https://www.db-fiddle.com/f/gPSEW9XKCbsXPnKeF9X6Sc/2
