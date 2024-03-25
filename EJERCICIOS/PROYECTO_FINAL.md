@@ -93,3 +93,7 @@ un código de categoría único.
     INSERT INTO pieza VALUES ('05', 'pieza05', 'amarillo', 199.00, 'metal', 4);
     INSERT INTO pieza VALUES ('06', 'pieza06', 'gris', 49.00, 'carton', 2);
     INSERT INTO pieza VALUES ('07', 'pieza07', 'rojo', 66.00, 'ceramica', 1);
+
+![Sin título](https://github.com/zeth789/Base_de_Datos_MARGARITA/assets/113545552/533818f1-4a63-4efe-9a8a-7b6de96def68)
+
+    
